@@ -55,12 +55,12 @@
 
 |Название|Процессор|Энергия|Стоимость|
 |-|-|-|
-|Extractor Control Unit|400 tf|2600 MW|45,000.00 ISK
-|Extractor Head|110 tf|550 MW|0.00 ISK
-|Basic Industry Facility|200 tf|800 MW|75,000.00 ISK
-|Advanced Industry Facility|500 tf|700 MW|250,000.00 ISK
-|High-Tech Industry Facility|1100 tf|400 MW|525,000.00 ISK
-|Storage Facility|500 tf|700 MW|250,000.00 ISK
+|Extractor Control Unit|400 tf|2600 MW|45,000.00 ISK|
+|Extractor Head|110 tf|550 MW|0.00 ISK|
+|Basic Industry Facility|200 tf|800 MW|75,000.00 ISK|
+|Advanced Industry Facility|500 tf|700 MW|250,000.00 ISK|
+|High-Tech Industry Facility|1100 tf|400 MW|525,000.00 ISK|
+|Storage Facility|500 tf|700 MW|250,000.00 ISK|
 
 ---
 
