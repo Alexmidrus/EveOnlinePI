@@ -54,7 +54,7 @@
 **Характеристики структур:**
 
 |Название|Процессор|Энергия|Стоимость|
-|-|-|-|
+|-|-|-|-|
 |Extractor Control Unit|400 tf|2600 MW|45,000.00 ISK|
 |Extractor Head|110 tf|550 MW|0.00 ISK|
 |Basic Industry Facility|200 tf|800 MW|75,000.00 ISK|
