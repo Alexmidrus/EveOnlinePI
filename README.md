@@ -156,15 +156,15 @@
 <table>
   <thead>
     <tr>
-      <th colspan="2">1</th>
-      <th>3</th>
-      <th>4</th>
-      <th>5</th>
+      <th colspan="2">P3</th>
+      <th colspan="2">P2</th>
+      <th colspan="2">P1</th>
+      <th colspan="2">P0</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="3">1</td>
+      <td>Колличество</td>
       <td rowspan="2">1</td>
       <td rowspan="2" colspan="2">2</td>
       <td>6</td>
